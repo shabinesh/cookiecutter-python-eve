@@ -1,0 +1,8 @@
+{
+    "app_name": "test",
+    "app_root": "testapp",
+    "api_version": "v1",
+    "company_name": "madlabs",
+    "author": "shabi@fossix.org",
+    "project_short_description": "Short description of your project."
+}
